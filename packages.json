@@ -10,5 +10,9 @@
   {
     "package": "templatesRmd",
     "url": "https://github.com/calderonsamuel/templatesRmd"
+  },
+  {
+    "package": "transpaeconomica",
+    "url": "https://github.com/calderonsamuel/transpaeconomica"
   }
 ]
