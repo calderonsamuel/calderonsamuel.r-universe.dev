@@ -14,5 +14,9 @@
   {
     "package": "perutranspaeconomica",
     "url": "https://github.com/calderonsamuel/perutranspaeconomica"
+  },
+  {
+    "package": "casemisc",
+    "url": "https://github.com/calderonsamuel/casemisc"
   }
 ]
