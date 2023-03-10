@@ -18,5 +18,13 @@
   {
     "package": "casemisc",
     "url": "https://github.com/calderonsamuel/casemisc"
+  },
+  {
+    "package": "reportesAPI",
+    "url": "https://github.com/calderonsamuel/reportesAPI"
+  },
+  {
+    "package": "appReporteAvance",
+    "url": "https://github.com/calderonsamuel/appReporteAvance"
   }
 ]
