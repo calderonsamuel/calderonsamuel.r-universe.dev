@@ -26,5 +26,9 @@
   {
     "package": "appReporteAvance",
     "url": "https://github.com/calderonsamuel/appReporteAvance"
+  },
+  {
+    "package": "appsheet",
+    "url": "https://github.com/calderonsamuel/appsheet"
   }
 ]
