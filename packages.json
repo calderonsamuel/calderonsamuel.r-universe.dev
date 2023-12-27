@@ -26,5 +26,9 @@
   {
     "package": "appsheet",
     "url": "https://github.com/calderonsamuel/appsheet"
+  },
+  {
+    "package": "SSEparser",
+    "url": "https://github.com/calderonsamuel/SSEparser"
   }
 ]
